@@ -28,8 +28,8 @@ The SMS Classifier is designed to showcase the effectiveness of using NumPy and 
 3. **Follow the instructions in the notebook to preprocess data, train the model, and make predictions.**
 
 ## Repository Contents
-  SMS_Classifier.ipynb: Jupyter Notebook for the SMS Classifier.
-  spam.csv: Dataset containing labeled SMS messages.
+  - SMS_Classifier.ipynb: Jupyter Notebook for the SMS Classifier.
+  - spam.csv: Dataset containing labeled SMS messages.
 
 ## Dependencies
 - Python 3.x
